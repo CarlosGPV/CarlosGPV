@@ -10,8 +10,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-component&logoColor=whites)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferkanzai&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferkanzai&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGPV&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGPV&layout=compact)
 
 
 ### Hobbies
@@ -24,6 +24,6 @@
 ### 📫 How to reach me:
 
 [![Gmail Badge](https://img.shields.io/badge/-carlos.gdpv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.carayu@gmail.com)](mailto:carlos.gdpv@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgdpv)](https://www.linkedin.com/in/carlosgdpv)
+[![Linkedin Badge](https://img.shields.io/badge/-CarlosGPV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgdpv)](https://www.linkedin.com/in/carlosgdpv)
 
 
