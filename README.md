@@ -8,6 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0d81e?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-component&logoColor=whites)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosGPV&count_private=true&show_icons=true)
